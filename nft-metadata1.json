@@ -1,0 +1,15 @@
+{
+    "attributes": [
+        {
+        "trait_type": "Type",
+        "value": "saiyan"
+        },
+        {
+        "trait_type": "superpower",
+        "value": "genes"
+        }
+    ],
+    "description": "The world's first super saiyan.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmP5LtvqgnV3BaXr7zxPHXydwKsyvp4LkUv3Pe9dpwXvAs",
+    "name": "Goku"
+}
